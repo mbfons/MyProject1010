@@ -16,7 +16,7 @@ usethis::create_github_token()
 
 gitcreds::gitcreds_set()
 
-
+gitcreds::gitcreds_get()
 # edit r environment, put token in
 #usethis::edit_r_environ()
 
